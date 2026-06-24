@@ -1,24 +1,26 @@
-# 01 Ml Engineering Foundations
+# Ml Engineering Foundations
 
-## 🚀 Project Overview
-This project is part of my Machine Learning Engineering Portfolio, demonstrating practical skills in 01 Ml Engineering Foundations.
+This project is part of my Machine Learning Engineering Portfolio.
 
-## 📂 Notebooks
-| Niveau | Notebook ansehen | In Colab öffnen |
-|---|---|---|
-| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb) |
+## Interactive Notebooks
 
+You can view or run these notebooks interactively using the links below:
 
-## 💾 Datasets
-- [README.md](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/01-ml-engineering-foundations/data/README.md)
-- [sample_energy_data.csv](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/01-ml-engineering-foundations/data/sample_energy_data.csv)
-- [sample_life_data.csv](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/01-ml-engineering-foundations/data/sample_life_data.csv)
+### Anfaenger
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/01-ml-engineering-foundations/notebooks/Anfaenger.ipynb)
 
+## Datasets
 
-## 📁 Repository Structure
-- `data/`: Contains data dictionaries and sample datasets.
-- `notebooks/`: Contains the Jupyter Notebooks with detailed analysis and code.
-- `outputs/`: Saved figures, trained models, and intermediate results.
+The following datasets are used in this project:
 
-## 📊 Results & Findings
-Please refer to the outputs folder and the notebooks themselves for a detailed mathematical and analytical breakdown of the results.
+- **energy_data.csv**: [View in Repo](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/01-ml-engineering-foundations/data/energy_data.csv) | [Download Raw](https://raw.githubusercontent.com/esmaeilisadat-tech/Machine-Learning-Exercises/raw/main/01-ml-engineering-foundations/data/energy_data.csv)
+- **life_data.csv**: [View in Repo](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/01-ml-engineering-foundations/data/life_data.csv) | [Download Raw](https://raw.githubusercontent.com/esmaeilisadat-tech/Machine-Learning-Exercises/raw/main/01-ml-engineering-foundations/data/life_data.csv)
+- **sample_energy_data.csv**: [View in Repo](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/01-ml-engineering-foundations/data/sample_energy_data.csv) | [Download Raw](https://raw.githubusercontent.com/esmaeilisadat-tech/Machine-Learning-Exercises/raw/main/01-ml-engineering-foundations/data/sample_energy_data.csv)
+- **sample_life_data.csv**: [View in Repo](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/01-ml-engineering-foundations/data/sample_life_data.csv) | [Download Raw](https://raw.githubusercontent.com/esmaeilisadat-tech/Machine-Learning-Exercises/raw/main/01-ml-engineering-foundations/data/sample_life_data.csv)
+
+## Outputs & Results
+
+Generated visualizations and metrics are stored in the output/ directory (categorized by difficulty level).
+
+---
+*Generated automatically for the ML Engineering Portfolio*

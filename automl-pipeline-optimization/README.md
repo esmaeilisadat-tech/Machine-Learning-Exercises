@@ -1,24 +1,28 @@
 # Automl Pipeline Optimization
 
-## 🚀 Project Overview
-This project is part of my Machine Learning Engineering Portfolio, demonstrating practical skills in Automl Pipeline Optimization.
+This project is part of my Machine Learning Engineering Portfolio.
 
-## 📂 Notebooks
-| Niveau | Notebook ansehen | In Colab öffnen |
-|---|---|---|
-| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/automl-pipeline-optimization/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/automl-pipeline-optimization/notebooks/Anfaenger.ipynb) |
-| **Experte** | [Experte.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/automl-pipeline-optimization/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/automl-pipeline-optimization/notebooks/Experte.ipynb) |
-| **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/automl-pipeline-optimization/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/automl-pipeline-optimization/notebooks/Fortgeschrittene.ipynb) |
+## Interactive Notebooks
+
+You can view or run these notebooks interactively using the links below:
+
+### Anfaenger
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Anfaenger.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Anfaenger.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Anfaenger.ipynb)
+
+### Fortgeschrittene
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Fortgeschrittene.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Fortgeschrittene.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Fortgeschrittene.ipynb)
+
+### Experte
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Experte.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Experte.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/automl-pipeline-optimization/notebooks/Experte.ipynb)
+
+## Datasets
+
+This project uses internally generated data or datasets fetched via APIs within the code.
 
 
-## 💾 Datasets
-- [README.md](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/automl-pipeline-optimization/data/README.md)
+## Outputs & Results
 
+Generated visualizations and metrics are stored in the output/ directory (categorized by difficulty level).
 
-## 📁 Repository Structure
-- `data/`: Contains data dictionaries and sample datasets.
-- `notebooks/`: Contains the Jupyter Notebooks with detailed analysis and code.
-- `outputs/`: Saved figures, trained models, and intermediate results.
-
-## 📊 Results & Findings
-Please refer to the outputs folder and the notebooks themselves for a detailed mathematical and analytical breakdown of the results.
+---
+*Generated automatically for the ML Engineering Portfolio*

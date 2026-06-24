@@ -1,24 +1,30 @@
 # Ensemble Learning Model Comparison
 
-## 🚀 Project Overview
-This project is part of my Machine Learning Engineering Portfolio, demonstrating practical skills in Ensemble Learning Model Comparison.
+This project is part of my Machine Learning Engineering Portfolio.
 
-## 📂 Notebooks
-| Niveau | Notebook ansehen | In Colab öffnen |
-|---|---|---|
-| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/ensemble-learning-model-comparison/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/ensemble-learning-model-comparison/notebooks/Anfaenger.ipynb) |
-| **Experte** | [Experte.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/ensemble-learning-model-comparison/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/ensemble-learning-model-comparison/notebooks/Experte.ipynb) |
-| **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/ensemble-learning-model-comparison/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/ensemble-learning-model-comparison/notebooks/Fortgeschrittene.ipynb) |
+## Interactive Notebooks
 
+You can view or run these notebooks interactively using the links below:
 
-## 💾 Datasets
-- [README.md](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/ensemble-learning-model-comparison/data/README.md)
+### Anfaenger
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Anfaenger.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Anfaenger.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Anfaenger.ipynb)
 
+### Fortgeschrittene
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Fortgeschrittene.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Fortgeschrittene.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Fortgeschrittene.ipynb)
 
-## 📁 Repository Structure
-- `data/`: Contains data dictionaries and sample datasets.
-- `notebooks/`: Contains the Jupyter Notebooks with detailed analysis and code.
-- `outputs/`: Saved figures, trained models, and intermediate results.
+### Experte
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Experte.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Experte.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/notebooks/Experte.ipynb)
 
-## 📊 Results & Findings
-Please refer to the outputs folder and the notebooks themselves for a detailed mathematical and analytical breakdown of the results.
+## Datasets
+
+The following datasets are used in this project:
+
+- **Steel_industry_data.csv**: [View in Repo](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/data/Steel_industry_data.csv) | [Download Raw](https://raw.githubusercontent.com/esmaeilisadat-tech/Machine-Learning-Exercises/raw/main/ensemble-learning-model-comparison/data/Steel_industry_data.csv)
+- **winequality-red.csv**: [View in Repo](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/ensemble-learning-model-comparison/data/winequality-red.csv) | [Download Raw](https://raw.githubusercontent.com/esmaeilisadat-tech/Machine-Learning-Exercises/raw/main/ensemble-learning-model-comparison/data/winequality-red.csv)
+
+## Outputs & Results
+
+Generated visualizations and metrics are stored in the output/ directory (categorized by difficulty level).
+
+---
+*Generated automatically for the ML Engineering Portfolio*

@@ -1,22 +1,23 @@
 # Anomaly Detection Outlier Analysis
 
-## 🚀 Project Overview
-This project is part of my Machine Learning Engineering Portfolio, demonstrating practical skills in Anomaly Detection Outlier Analysis.
+This project is part of my Machine Learning Engineering Portfolio.
 
-## 📂 Notebooks
-| Niveau | Notebook ansehen | In Colab öffnen |
-|---|---|---|
-| **Alle_Niveaus_Loesung** | [Alle_Niveaus_Loesung.ipynb](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/anomaly-detection-outlier-analysis/notebooks/Alle_Niveaus_Loesung.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/anomaly-detection-outlier-analysis/notebooks/Alle_Niveaus_Loesung.ipynb) |
+## Interactive Notebooks
 
+You can view or run these notebooks interactively using the links below:
 
-## 💾 Datasets
-- [README.md](https://github.com/esmaeilisadat-tech/ML_Engineering_Portfolio/blob/main/anomaly-detection-outlier-analysis/data/README.md)
+### Alle_Niveaus_Loesung
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/anomaly-detection-outlier-analysis/notebooks/Alle_Niveaus_Loesung.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/anomaly-detection-outlier-analysis/notebooks/Alle_Niveaus_Loesung.ipynb) [![View on GitHub](https://img.shields.io/badge/View-on%20GitHub-blue?logo=github)](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/anomaly-detection-outlier-analysis/notebooks/Alle_Niveaus_Loesung.ipynb)
 
+## Datasets
 
-## 📁 Repository Structure
-- `data/`: Contains data dictionaries and sample datasets.
-- `notebooks/`: Contains the Jupyter Notebooks with detailed analysis and code.
-- `outputs/`: Saved figures, trained models, and intermediate results.
+The following datasets are used in this project:
 
-## 📊 Results & Findings
-Please refer to the outputs folder and the notebooks themselves for a detailed mathematical and analytical breakdown of the results.
+- **indian_pharmaceutical_products_clean.csv**: [View in Repo](https://github.com/esmaeilisadat-tech/Machine-Learning-Exercises/blob/main/anomaly-detection-outlier-analysis/data/indian_pharmaceutical_products_clean.csv) | [Download Raw](https://raw.githubusercontent.com/esmaeilisadat-tech/Machine-Learning-Exercises/raw/main/anomaly-detection-outlier-analysis/data/indian_pharmaceutical_products_clean.csv)
+
+## Outputs & Results
+
+Generated visualizations and metrics are stored in the output/ directory (categorized by difficulty level).
+
+---
+*Generated automatically for the ML Engineering Portfolio*
